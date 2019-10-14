@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Music",MTV China
+http://iliketot.dyndns.tv/deb56e700dbc4d9ea5af08e9d300a675.m3u8
+#EXTINF:-1 group-title="Music",MTV Hits
+http://iliketot.dyndns.tv/8d45473ff4ca44d79e1abc4516c2fee0.m3u8
+#EXTINF:-1 group-title="Music",MTV Vivo
+http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 group-title="Music",Trace Urban
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/4/prog_index.m3u8
+#EXTINF:-1 group-title="Music",M2O Music TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 group-title="Music",ONE
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="Music",Music Choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 group-title="Music",DANGDUTZ
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+#EXTINF:-1 group-title="Music",KARAOKE Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
+#EXTINF:-1 group-title="Music",MALEO
+http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="Music",POP MUSIK
+http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="Music",MiX Music HD
+http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
