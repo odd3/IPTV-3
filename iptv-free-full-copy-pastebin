@@ -2128,59 +2128,59 @@ http://210.210.155.35/uq2663/h/h08/index1.m3u8
 http://210.210.155.35/uq2663/h/h28/index1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",SONY One
 http://210.210.155.35/uq2663/h/h13/index1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/delta-fm-99-1.png" group-title="Radio",Delta FM
-http://masima.rastream.com/masima-deltajakarta.android?awparams=stationid%3Amasima-deltajakarta%3Btags%3Aradioactive%3Bcompanionads%3Atrue&setLanguage=true&lan=%5B%22id%22%5D&aw_0_1st.stationid=masima-deltajakarta&playerid=Delta_android&listenerid=6f2bc7db-d01b-4512-b776-0c7a6b933a72&aw_0_1st.version=6.3.1%3Aandroid27&aw_0_1st.ts=1533169898&aw_0_1st.playerid=PLAYER_ID&aw_0_awz.listenerid=6f2bc7db-d01b-4512-b776-0c7a6b933a72&aw_0_req.lmt=0&aw_0_1st.gpslat=-6.5567&aw_0_1st.gpslong=106.8605&sdkiad=1&call=1&pkpass=1&inAppNotif=1&aw_0_1st.suppstatus=LOC_OK-SON_NOI&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1MzMxNzA0OTgsImlhdCI6MTUzMzE2OTg5OCwib2lkIjoibGF5bGlvLWFuZHJvaWQifQ.keuJeV2NXyCunmR2J-K_UeLTE1Nnj-CAleth9XSjp94
-#EXTINF:-1 group-title="Radio",Hitz FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/1/20441.v1.png" group-title="Radio",Hitz FM
 http://astro1.rastream.com/hitz?type=mp3
-#EXTINF:-1 group-title="Radio",ERA FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/8/20438.v9.png" group-title="Radio",ERA FM
 http://astro2.rastream.com/era
-#EXTINF:-1 group-title="Radio",Hot FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/9/20939.v2.png" group-title="Radio",Hot FM
 http://mediaprima.rastream.com/mediaprima-hotfm.android
-#EXTINF:-1 group-title="Radio",Loker Musik Indonesia
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/9/75039.v2.png" group-title="Radio",Loker Musik Indonesia
 http://live.lokermusik.com:8142/stream
-#EXTINF:-1 group-title="Radio",Ceria FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/5/21105.v4.png" group-title="Radio",Ceria FM
 http://172.83.43.162:8080/stream/;
-#EXTINF:-1 group-title="Radio",NAGASWARA FM RADIOTEMEN
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/2/19152.v10.png" group-title="Radio",NAGASWARA FM RADIOTEMEN
 http://bogor.nagaswarafm.com:8088/stream
-#EXTINF:-1 group-title="Radio",Kool FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/0/21370.v1.png" group-title="Radio",Kool FM
 http://mediaprima.rastream.com/mediaprima-koolfm
-#EXTINF:-1 group-title="Radio",Lite FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/8/21248.png" group-title="Radio",Lite FM
 http://astro1.rastream.com/lite?type=mp3
-#EXTINF:-1 group-title="Radio",NAGASWARA POP
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/0/75890.v1.png" group-title="Radio",NAGASWARA POP
 http://jakarta.nagaswarafm.com:8100/stream
-#EXTINF:-1 group-title="Radio",NAGASWARA DANCEDHUT
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/0/75890.v1.png" group-title="Radio",NAGASWARA DANCEDHUT
 http://jakarta.nagaswarafm.com:8200/stream
-#EXTINF:-1 group-title="Radio",Sinar FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/4/20434.v2.png" group-title="Radio",Sinar FM
 http://astro2.rastream.com/sinar?type=mp3
-#EXTINF:-1 group-title="Radio",Mix FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/21246.png" group-title="Radio",Mix FM
 http://astro2.rastream.com/mix?type=mp3
-#EXTINF:-1 group-title="Radio",Fly FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/20446.v7.png" group-title="Radio",Fly FM
 http://mediaprima.rastream.com/mediaprima-flyfm
-#EXTINF:-1 group-title="Radio",CMN Radio
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/7/71837.v8.png" group-title="Radio",CMN Radio
 http://streaming.coolkas.com:8024/stream
-#EXTINF:-1 group-title="Radio",Best FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/1/21311.v7.png" group-title="Radio",Best FM
 http://s8.voscast.com:8686/;stream1524468271750/1
-#EXTINF:-1 group-title="Radio",My FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/20436.v1.png" group-title="Radio",My FM
 http://astro1.rastream.com//myfm?type=mp3
-#EXTINF:-1 group-title="Radio",Melody FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/9/21319.v3.png" group-title="Radio",Melody FM
 http://astro3.rastream.com/melody?type=mp3
-#EXTINF:-1 group-title="Radio",Cats FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/7/21627.png" group-title="Radio",Cats FM
 http://catsfm64.cspixel.com:7111/stream/;
-#EXTINF:-1 group-title="Radio",Siaraya FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/3/21153.v3.png" group-title="Radio",Siaraya FM
 http://starrfm.rastream.com/starrfm-suria
-#EXTINF:-1 group-title="Radio",RMK Radio
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/9/75979.v1.png" group-title="Radio",RMK Radio
 http://rmk.baitussubhan.com:8066/stream
-#EXTINF:-1 group-title="Radio",Warna FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/7/15207.v3.png" group-title="Radio",Warna FM
 https://19043.live.streamtheworld.com/WARNA942FMAAC.aac?dist=onlineradiobox
-#EXTINF:-1 group-title="Radio",Ria FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/2/15252.v5.png" group-title="Radio",Ria FM
 https://19183.live.streamtheworld.com/RIA897FMAAC.aac?dist=onlineradiobox
-#EXTINF:-1 group-title="Radio",Kristal FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/8/44678.png" group-title="Radio",Kristal FM
 http://202.152.73.2:801/kfm
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/i-radio-89-6-fm.png" group-title="Radio",iRadio Jakarta
-http://cloudstreaming.mramedia.com:8000/live
-#EXTINF:-1 tvg-logo="http://db.radioline.fr/pictures/radio_3c3f09a0af35ef2a070d844d3d130ae0/logo200.jpg?size=200" group-title="Radio",Gen FM
-http://streaming.sportku.com:8000/genfm
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/prambors-102-2-fm.png" group-title="Radio",Prambors FM
-http://masima.rastream.com/masima-pramborsjakarta
-#EXTINF:-1,Jak FM
-http://streaming.sportku.com:8000/jak
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/1/73501.v5.png" group-title="Radio",Kartika FM
+http://live.radiokartika.com:8000/;stream.nsv
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/3/66983.v2.png" group-title="Radio",Actari FM
+http://stream.suararadio.com:8000/ciamis_actarifm_mp3
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/5/66985.v2.png" group-title="Radio",Piss Radio
+http://stream.suararadio.com:8000/ciamis_pissfm_mono
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/71836.v18.png" group-title="Radio",Pitaloka FM
+http://radiopitalokafm.com:8028/;
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/5/19205.v2.png" group-title="Radio",Radio Sukapura
+http://stream.suararadio.com:8000/tasik_sukapurafm_mp3
